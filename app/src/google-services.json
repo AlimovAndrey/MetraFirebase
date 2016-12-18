@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "300966893164",
+    "firebase_url": "https://galleryfirebase.firebaseio.com",
+    "project_id": "galleryfirebase",
+    "storage_bucket": "galleryfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:300966893164:android:c19ba8cdf67c8002",
+        "android_client_info": {
+          "package_name": "alimov.com.metrafirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "300966893164-2t5f3d31ddcdrc6tccrb0cm5g83mcavb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgRGoQC63xyGSs-XTaLNCRA5keOgDk6jQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

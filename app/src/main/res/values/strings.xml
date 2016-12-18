@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">MetraFirebase</string>
+
+    // ----------------------------- Sections
+    -------------------------------------------------------
+    <string name="sections_title">Sections</string>
+    <string name="sections_edit">Edit</string>
+    <string name="sections_empty_list">List is empty</string>
+
+    // ----------------------------- New Section ---------------------------------------------------
+    <string name="new_section_title">New Section</string>
+    <string name="new_section_save">Save</string>
+    <string name="new_section_name">Name</string>
+    <string name="new_section_description">Description</string>
+    <string name="new_section_error_invalid_name">Invalid name</string>
+    <string name="new_section_error_invalid_description">Invalid description</string>
+
+    // ----------------------------- Gallery -------------------------------------------------------
+    <string name="gallery_section_title">Details</string>
+    <string name="gallery_section_count">Overall:</string>
+    <string name="gallery_section_name">Name:</string>
+    <string name="gallery_section_photo_count">Photos:</string>
+    <string name="gallery_section_description">Description:</string>
+    <string name="gallery_section_date">Created at:</string>
+    <string name="gallery_section_delete_photo">Delete</string>
+    <string name="gallery_section_photo_date">Date:</string>
+    <string name="gallery_section_empty_list">List is empty</string>
+    <string name="gallery_section_make_photo">Make a photo</string>
+    <string name="gallery_section_chose_photo">Chose a photo</string>
+    <string name="gallery_uploading">Uploading image...</string>
+    <string name="gallery_empty_photo">no photos</string>
+
+</resources>
